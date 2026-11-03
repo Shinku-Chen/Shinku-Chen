@@ -26,6 +26,7 @@
 | **[R1-Toolbox-Hiksemi](https://github.com/Shinku-Chen/R1-Toolbox-Hiksemi)** | 海康 R1 NAS 的开源增强工具箱：小屏、监控、SMART、风扇曲线 |
 | **[ai-passport-openclaw-android](https://github.com/Shinku-Chen/ai-passport-openclaw-android)** | 把 AI Passport 变成「按住 OK 就能问」的随身 AI 对讲机 |
 | **[wiznote-skill](https://github.com/Shinku-Chen/wiznote-skill)** | 让 AI 助手安全操作你的为知笔记 |
+| **[wiz-folder-sync-obsidian](https://github.com/Shinku-Chen/wiz-folder-sync-obsidian)** | 把 Obsidian 笔记双向同步到为知笔记 |
 | **[Ja3RoundTripper](https://github.com/Shinku-Chen/Ja3RoundTripper)** | 在 Go 的 http.Client 里修改 JA3 指纹 |
 
 ## GitHub 统计
