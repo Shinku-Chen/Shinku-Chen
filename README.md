@@ -28,6 +28,19 @@
 | **[wiznote-skill](https://github.com/Shinku-Chen/wiznote-skill)** | 让 AI 助手安全操作你的为知笔记 |
 | **[Ja3RoundTripper](https://github.com/Shinku-Chen/Ja3RoundTripper)** | 在 Go 的 http.Client 里修改 JA3 指纹 |
 
+## GitHub 统计
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shinku-Chen&theme=github_dark">
+    <img width="340" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shinku-Chen&theme=github" alt="Shinku 的 GitHub 统计">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shinku-Chen&theme=github_dark">
+    <img width="340" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shinku-Chen&theme=github" alt="Shinku 的常用语言">
+  </picture>
+</p>
+
 ## 技术栈
 
 `C` · `Go` · `TypeScript` · `Python` · `QMK` · `ESP32` · `Docker` · `Linux`
